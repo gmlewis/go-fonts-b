@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/berkshireswash_regular
+module github.com/gmlewis/go-fonts-b/fonts/berkshireswash_regular
 
 go 1.22.4
 

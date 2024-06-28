@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/baskervville_regular
+module github.com/gmlewis/go-fonts-b/fonts/baskervville_regular
 
 go 1.22.4
 

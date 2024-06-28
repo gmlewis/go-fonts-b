@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/baskervville_italic
+module github.com/gmlewis/go-fonts-b/fonts/baskervville_italic
 
 go 1.22.4
 

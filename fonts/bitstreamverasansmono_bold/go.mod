@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/bitstreamverasansmono_bold
+module github.com/gmlewis/go-fonts-b/fonts/bitstreamverasansmono_bold
 
 go 1.22.4
 

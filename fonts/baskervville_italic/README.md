@@ -7,7 +7,7 @@ To use this font in your code, simply import it:
 ```go
 import (
   "github.com/gmlewis/go-fonts/fonts"
-  _ "github.com/gmlewis/go-fonts-a/fonts/baskervville_italic"
+  _ "github.com/gmlewis/go-fonts-b/fonts/baskervville_italic"
 )
 
 func main() {

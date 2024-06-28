@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/bitstreamverasansmono_boldob
+module github.com/gmlewis/go-fonts-b/fonts/bitstreamverasansmono_boldob
 
 go 1.22.4
 

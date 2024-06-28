@@ -7,7 +7,7 @@ To use this font in your code, simply import it:
 ```go
 import (
   "github.com/gmlewis/go-fonts/fonts"
-  _ "github.com/gmlewis/go-fonts-a/fonts/bitstreamverasansmono_boldob"
+  _ "github.com/gmlewis/go-fonts-b/fonts/bitstreamverasansmono_boldob"
 )
 
 func main() {

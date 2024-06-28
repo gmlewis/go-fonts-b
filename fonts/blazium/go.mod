@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/blazium
+module github.com/gmlewis/go-fonts-b/fonts/blazium
 
 go 1.22.4
 

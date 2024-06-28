@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/baloo
+module github.com/gmlewis/go-fonts-b/fonts/baloo
 
 go 1.22.4
 

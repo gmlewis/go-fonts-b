@@ -7,7 +7,7 @@ To use this font in your code, simply import it:
 ```go
 import (
   "github.com/gmlewis/go-fonts/fonts"
-  _ "github.com/gmlewis/go-fonts-a/fonts/blazium"
+  _ "github.com/gmlewis/go-fonts-b/fonts/blazium"
 )
 
 func main() {
