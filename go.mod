@@ -1,3 +1,3 @@
-module github.com/gmlewis/go-fonts-a
+module github.com/gmlewis/go-fonts-b
 
 go 1.22.4
